@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Loggers>
+        <Logger name="org.mongodb.driver" level="off" additivity="false">
+            <AppenderRef ref="Out"/>
+        </Logger>
+    </Loggers>
+</Configuration>

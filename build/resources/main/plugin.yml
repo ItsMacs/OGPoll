@@ -1,0 +1,7 @@
+name: OGPoll
+version: '1.0-SNAPSHOT'
+main: eu.macsworks.ogpoll.OGPoll
+api-version: '1.21'
+authors: [ Alice ]
+description: Take-home project for OG-Network
+website: macsworks.eu

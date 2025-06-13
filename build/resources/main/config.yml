@@ -1,0 +1,4 @@
+#MongoDB connection details
+mongo-user: "minecraft"
+mongo-password: "iloveminecraft"
+mongo-server: "mysuperserver.com"
